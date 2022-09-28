@@ -8,6 +8,8 @@ Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los me gu
 - [Mi TFG de 2ºDAW](link=https://github.com/ignacioviseras/01_Hospital_TFG.git)
 <hr/>
 
+esta en proceso el readme:)
+
 
 <!--
 **ignacioviseras/ignacioviseras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
