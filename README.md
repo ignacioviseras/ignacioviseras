@@ -1,6 +1,11 @@
-# ✨ ¡Bienvenidos a mi Github! ✨
+# 🐸 ¡Bienvenidos a mi Github! 🐸
 
-## Hello I'm Ignacio Viseras Riego 👋
+Soy Ignacio Viseras Riego
+Un pequeño apasionado del mundo tecnologico asi como de la programacion 👾👽👾
+
+Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los me gustaria destacar.
+
+![Mi TFG de 2ºDAW](link=https://github.com/ignacioviseras/01_Hospital_TFG.git)
 <hr/>
 
 
