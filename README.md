@@ -5,7 +5,10 @@ Un pequeño apasionado del mundo tecnologico asi como de la programacion 👾�
 
 Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los me gustaria destacar.
 
-- [Mi TFG de 2ºDAW](link=https://github.com/ignacioviseras/01_Hospital_TFG.git)
+- [Mi TFG de 2ºDAW](https://github.com/ignacioviseras/01_Hospital_TFG.git)
+- Los Repositorios de los grados superiores
+  - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) - FINALIZADO
+  - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) -En proceso
 <hr/>
 
 esta en proceso el readme:)
