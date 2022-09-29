@@ -4,11 +4,11 @@ Soy Ignacio Viseras Riego.<br/>
 Un pequeño apasionado del mundo tecnologico asi como de la programacion 👾👽👾
 
 Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los cuales me gustaria destacar.<br/>
-- [Mi TFG de 2ºDAW](https://github.com/ignacioviseras/01_Hospital_TFG.git)
+- El [TFG](https://github.com/ignacioviseras/01_Hospital_TFG.git) de 2ºDAW
 - Alguna actividad del Cusus de [42 Madrid](https://www.42madrid.com)
 - Los Repositorios de los grados superiores
-  - ✔️ Finalizado [2ºDAW](https://github.com/ignacioviseras/2-DAW.git)
-  - ❌ Finalizado [2ºDAM](https://github.com/ignacioviseras/2-DAM.git)
+  - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) ✔️ Finalizado
+  - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) ❌ Finalizado
 <hr/>
 
 esta en proceso el readme:)
