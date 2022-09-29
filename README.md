@@ -1,7 +1,7 @@
 # 🐸 ¡Bienvenidos a mi Github! 🐸
 
 Soy Ignacio Viseras Riego.<br/>
-Un pequeño apasionado del mundo tecnologico asi como de la programacion 👾👽👾
+Un pequeño apasionado del mundo tecnologico asi como de la programacion <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="17"/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="17"/>
 
 Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los cuales me gustaria destacar.<br/>
 - El [TFG](https://github.com/ignacioviseras/01_Hospital_TFG.git) de 2ºDAW
@@ -13,7 +13,7 @@ Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los cuale
 <hr/>
 
 Aun me falta bastante por aprender asi que dame Follow para estar atent@ a mi futuros proyectos<br/>
-Nos vemoss<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20">
+Nos vemoss<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="17"/>
 
 
 <!--
