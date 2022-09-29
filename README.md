@@ -7,8 +7,8 @@ Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los me gu
 
 - [Mi TFG de 2ºDAW](https://github.com/ignacioviseras/01_Hospital_TFG.git)
 - Los Repositorios de los grados superiores
-  - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) - <sub> - [x] Finalizado<sub/>
-  - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) - <sup> [ ] Finalizado<sup/>
+  - [x] Finalizado [2ºDAW](https://github.com/ignacioviseras/2-DAW.git)
+  - [ ] Finalizado [2ºDAM](https://github.com/ignacioviseras/2-DAM.git)
 <hr/>
 
 esta en proceso el readme:)
