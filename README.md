@@ -11,7 +11,9 @@ Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los cuale
   - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) ✔️ Finalizado
   - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) ❌ Finalizado
 <hr/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioviseras)](https://github.com/anuraghazra/github-readme-stats)
+
 Aun me falta bastante por aprender asi que dame Follow para estar atent@ a mi futuros proyectos<br/>
 Nos vemoss<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="17"/>
 
