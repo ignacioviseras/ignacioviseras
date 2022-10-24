@@ -3,7 +3,7 @@
 Soy Ignacio Viseras Riego.<br/>
 Un pequeño apasionado del mundo tecnologico asi como de la programacion <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="17"/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="17"/>
 
-Bueno te presento mi Github, aqui puedes encontrar bastantes proyectos los cuales me gustaria destacar.
+Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
 - El [TFG](https://github.com/ignacioviseras/01_Hospital_TFG.git) de 2ºDAW
 - Alguna actividad del Cusus de [42 Madrid](https://www.42madrid.com)
   - [libft](https://github.com/ignacioviseras/libft.git) ❌ Finalizado
