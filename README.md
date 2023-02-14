@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Frog.png" alt="Frog" width="25" height="25" /> ¡Bienvenidos a mi Github! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Frog.png" alt="Frog" width="25" height="25" />
 
-Soy Ignacio Viseras Riego.<br/>
+Hola, soy Ignacio Viseras Riego.<br/>
 Un pequeño apasionado del mundo tecnologico asi como de la programacion <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="17"/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="17"/>
 
 Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
