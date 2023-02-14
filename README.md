@@ -17,7 +17,7 @@ Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
 | ------------- | ------------- |
 
 
-Aun me falta bastante por aprender asi que dame Follow para estar atent@ a mi futuros proyectos<br/>
+Aun me falta bastante por aprender asi que dame Follow para estar atent@ de mi progreso<br/>
 Nos vemoss<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="17"/>
 
 
