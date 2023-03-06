@@ -9,7 +9,7 @@ Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
   - [libft](https://github.com/ignacioviseras/libft.git) ❌ Finalizado
 - Los Repositorios de los grados superiores
   - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) ✔️ Finalizado
-  - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) ❌ Finalizado
+  - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) ✔️ Finalizado
 <hr/>
 
 
