@@ -8,6 +8,7 @@ Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
 - El [TFG](https://github.com/ignacioviseras/TFG-DAM) de 2ºDAM
 - Alguna actividad del Cusus de [42 Madrid](https://www.42madrid.com)
   - [libft](https://github.com/ignacioviseras/libft.git) ✔️ 125%
+  - Born2beroot ❌ Finalizado
 - Los Repositorios de los grados superiores
   - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) ✔️ Finalizado
   - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) ✔️ Finalizado
