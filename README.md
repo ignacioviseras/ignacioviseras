@@ -12,6 +12,7 @@ Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
   - [get_next_line](https://github.com/ignacioviseras/get_next_line) ✔️ 105%
   - Born2beroot ❌ Finalizado
   - [Fdf](https://github.com/ignacioviseras/Fdf) ❌ Finalizado
+  - [Pipex](https://github.com/ignacioviseras/pipex) ❌ Finalizado
 - Los Repositorios de los grados superiores
   - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) ✔️ Finalizado
   - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) ✔️ Finalizado
