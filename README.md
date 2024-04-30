@@ -10,7 +10,7 @@ Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
   - [libft](https://github.com/ignacioviseras/libft.git) ✔️ 125%
   - [ft_printf](https://github.com/ignacioviseras/ft_printf) ✔️ 100%
   - [get_next_line](https://github.com/ignacioviseras/get_next_line) ✔️ 105%
-  - Born2beroot ❌ Finalizado
+  - Born2beroot ✔️ 100%
   - [Fdf](https://github.com/ignacioviseras/Fdf) ❌ Finalizado
   - [Pipex](https://github.com/ignacioviseras/pipex) ❌ Finalizado
 - Los Repositorios de los grados superiores
