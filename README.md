@@ -11,8 +11,9 @@ Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
   - [ft_printf](https://github.com/ignacioviseras/ft_printf) ✔️ 100%
   - [get_next_line](https://github.com/ignacioviseras/get_next_line) ✔️ 105%
   - Born2beroot ✔️ 100%
-  - [Fdf](https://github.com/ignacioviseras/Fdf) ❌ Finalizado
+  - [Fdf](https://github.com/ignacioviseras/Fdf) ✔️ 115%
   - [Pipex](https://github.com/ignacioviseras/pipex) ✔️ 100%
+  - [Push_swap](https://github.com/ignacioviseras/push_swap) ✔️ 100%
   - [Push_swap](https://github.com/ignacioviseras/push_swap) ❌ Finalizado
 - Los Repositorios de los grados superiores
   - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) ✔️ Finalizado
