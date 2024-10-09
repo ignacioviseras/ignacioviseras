@@ -14,7 +14,7 @@ Bueno, aqui puedes encontrar varios proyectos los cuales me gustaria destacar.
   - [Fdf](https://github.com/ignacioviseras/Fdf) ✔️ 115%
   - [Pipex](https://github.com/ignacioviseras/pipex) ✔️ 100%
   - [Push_swap](https://github.com/ignacioviseras/push_swap) ✔️ 100%
-  - [minishell](https://github.com/ignacioviseras/minishell) ❌ Finalizado
+  - [Minishell](https://github.com/ignacioviseras/minishell) ❌ Finalizado
 - Los Repositorios de los grados superiores
   - [2ºDAW](https://github.com/ignacioviseras/2-DAW.git) ✔️ Finalizado
   - [2ºDAM](https://github.com/ignacioviseras/2-DAM.git) ✔️ Finalizado
